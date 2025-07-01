@@ -1,0 +1,68 @@
+3.1kWp (Schneider Electric) in Klagenfurt am Wörthersee, Am Struckey 76
+3.7kWp (Huawei) in Klagenfurt am Wörthersee, Brauerstraße 82
+3.8kWp (SolarMax) in Klagenfurt am Wörthersee, Zum Stöffel 190c
+3.9kWp (SolarMax) in Klagenfurt am Wörthersee, Wilhelm-Külz-Straße 90
+4.2kWp (Fronius) in Klagenfurt am Wörthersee, Oberbieberer Straße 47
+4.2kWp (Fronius) in Klagenfurt am Wörthersee, Steinchen 24
+4.8kWp (SolarMax) in Klagenfurt am Wörthersee, Am Kollenhof 75
+4.9kWp (Fronius) in Klagenfurt am Wörthersee, Rahmstraße 63
+5.2kWp (Huawei) in Klagenfurt am Wörthersee, Postplatz 157
+5.2kWp (Huawei) in Klagenfurt am Wörthersee, Thielenstraße 182
+5.4kWp (Fronius) in Klagenfurt am Wörthersee, Schachtstraße 31
+5.7kWp (Fronius) in Klagenfurt am Wörthersee, Marienburgstraße 1
+6.3kWp (Fronius) in Klagenfurt am Wörthersee, Lutherstraße 57
+7.0kWp (SMA) in Klagenfurt am Wörthersee, Kümmelweg 33
+7.1kWp (Huawei) in Klagenfurt am Wörthersee, Langenhahner Straße 79
+7.2kWp (SMA) in Klagenfurt am Wörthersee, Am Weikert 104
+7.7kWp (Schneider Electric) in Klagenfurt am Wörthersee, Georgsweiler Straße 182
+7.7kWp (SolarMax) in Klagenfurt am Wörthersee, Rudolf-Diesel-Straße 91
+7.9kWp (Huawei) in Klagenfurt am Wörthersee, Platz des Friedens 159
+8.0kWp (Fronius) in Klagenfurt am Wörthersee, Husarenstraße 127
+8.0kWp (Schneider Electric) in Klagenfurt am Wörthersee, Letter Straße 70
+8.2kWp (SMA) in Klagenfurt am Wörthersee, Langenbergstraße 17
+8.3kWp (Huawei) in Klagenfurt am Wörthersee, Zum Osterkamp 95
+8.5kWp (Fronius) in Klagenfurt am Wörthersee, Breitsteinstraße 179
+8.5kWp (SolarMax) in Klagenfurt am Wörthersee, Heinrich-Böll-Straße 97
+8.7kWp (SolarMax) in Klagenfurt am Wörthersee, Glärbach 166
+8.7kWp (SolarMax) in Klagenfurt am Wörthersee, Kleingasse 93
+9.0kWp (Fronius) in Klagenfurt am Wörthersee, Alte Siedlung 62
+9.2kWp (SolarMax) in Klagenfurt am Wörthersee, Kehrweg 79
+9.7kWp (ABB) in Klagenfurt am Wörthersee, Sperlingsweg 123
+10.4kWp (SMA) in Klagenfurt am Wörthersee, Am Hohlen Stein 71
+10.5kWp (Fronius) in Klagenfurt am Wörthersee, Am Steig 176
+10.5kWp (SolarMax) in Klagenfurt am Wörthersee, Don-Bosco-Straße 104
+10.7kWp (SolarMax) in Klagenfurt am Wörthersee, Kustrenaer Straße 62
+10.8kWp (Fronius) in Klagenfurt am Wörthersee, Stöcken 105
+11.0kWp (SolarMax) in Klagenfurt am Wörthersee, Großholthuysen 74
+11.0kWp (Fronius) in Klagenfurt am Wörthersee, Kernerstraße 118
+11.0kWp (Huawei) in Klagenfurt am Wörthersee, Löher Weg 94 b
+11.2kWp (Fronius) in Klagenfurt am Wörthersee, Hirzenhubstraße 178
+11.9kWp (Fronius) in Klagenfurt am Wörthersee, Eschbachstraße 2
+11.9kWp (Schneider Electric) in Klagenfurt am Wörthersee, Gecksberg 83
+12.0kWp (SolarMax) in Klagenfurt am Wörthersee, Staufenbergstraße 104
+12.1kWp (SMA) in Klagenfurt am Wörthersee, Schleidener Straße 157
+12.1kWp (SolarMax) in Klagenfurt am Wörthersee, Weitblick 90 a
+12.2kWp (Fronius) in Klagenfurt am Wörthersee, Am Lanfergraben 58
+12.4kWp (Huawei) in Klagenfurt am Wörthersee, Balgheimer Straße 195
+12.6kWp (Fronius) in Klagenfurt am Wörthersee, Merodestraße 36
+12.8kWp (Huawei) in Klagenfurt am Wörthersee, Geilenkirchener Straße 137
+12.9kWp (ABB) in Klagenfurt am Wörthersee, St. Sebastianusstraße 17
+13.0kWp (Fronius) in Klagenfurt am Wörthersee, Bornstube 108
+13.0kWp (Huawei) in Klagenfurt am Wörthersee, Stüttgerhofweg 153
+13.2kWp (Schneider Electric) in Klagenfurt am Wörthersee, Logsteenweg 50
+13.6kWp (ABB) in Klagenfurt am Wörthersee, Batzensteg 56
+13.6kWp (SolarMax) in Klagenfurt am Wörthersee, Schönbacher Weg 45
+13.6kWp (Huawei) in Klagenfurt am Wörthersee, Waldblick 113
+13.8kWp (Fronius) in Klagenfurt am Wörthersee, Burberg 21
+13.9kWp (Fronius) in Klagenfurt am Wörthersee, Weetfelder Straße 37
+14.3kWp (SolarMax) in Klagenfurt am Wörthersee, An der Bahn 8
+14.4kWp (Huawei) in Klagenfurt am Wörthersee, Ettringer Straße 44
+14.6kWp (Fronius) in Klagenfurt am Wörthersee, Buschmühlenweg 170
+14.6kWp (Fronius) in Klagenfurt am Wörthersee, Glatzer Straße 40
+14.9kWp (ABB) in Klagenfurt am Wörthersee, Im Brochenbach 143
+15.5kWp (ABB) in Klagenfurt am Wörthersee, Lingsforter Straße 46c
+15.9kWp (Huawei) in Klagenfurt am Wörthersee, Im Emscherbruch 132
+42.5kWp (Fronius) in Klagenfurt am Wörthersee, Fabrikstraße 47
+120.5kWp (Huawei) in Klagenfurt am Wörthersee, Wagnerring 108
+Summe der Leistung, installiert in ausgewählter Stadt: 794,70 kWp
+Durchschnittliche Spitzenleistung der installierten Leistung in der ausgewählten Stadt: 12,04 kWp

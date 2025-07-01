@@ -1,0 +1,1001 @@
+id;kwpeek;wechselrichter;plz;ort;strasse;hausnummer
+15;13.6;Fronius;9372;Eberstein;Warmensteinacher Straﬂe;127
+16;7.6;ABB;9170;Ferlach;Hasenpfad;50 c
+17;12.1;ABB;9170;Ferlach;Jan-Wellem-Straﬂe;69
+18;9.6;Fronius;9635;Dellach;Neubeckumer Straﬂe;81
+19;10.7;Huawei;9241;Wernberg;Am K¸rchen;119
+20;14.7;Fronius;9131;Grafenstein;Pr¸mer Straﬂe;87
+21;12.9;Fronius;9555;Glanegg;R¸schhausweg;51c
+22;5.8;Fronius;9371;Br¸ckl;Horsterstraﬂe;137a
+23;6.2;ABB;9560;Feldkirchen in K‰rnten;M¸hlenstiege;14
+24;13;Fronius;9900;Lienz;Freiligrath Straﬂe;155
+25;11.5;Schneider Electric;9131;Grafenstein;Brachelener Straﬂe;151
+26;11;Fronius;9542;Afritz am See;Im Viertel;86
+27;12.5;Fronius;9560;Feldkirchen in K‰rnten;Bienenweg;119
+28;7;SMA;9020;Klagenfurt am Wˆrthersee;K¸mmelweg;33
+29;11.9;Fronius;9900;Lienz;Erlenkamp;57
+30;5.5;Fronius;9900;Lienz;Eispfad;102
+31;6;Huawei;9560;Feldkirchen in K‰rnten;Trevererstraﬂe;93
+32;5.8;Fronius;9563;Gnesau;Nikolaus-Ehlen-Straﬂe;111
+33;10.8;Fronius;9132;Gallizien;Etzweiler Straﬂe;187b
+34;9;SolarMax;9400;Wolfsberg;Brachter Straﬂe;55
+35;14.2;Schneider Electric;9170;Ferlach;Marienburg;59
+36;14.3;Fronius;9556;St. Veit an der Glan;Schmiedstraﬂe;62
+37;10;Fronius;9470;St. Paul im Lavanttal;Berchemallee;21
+38;10.6;SMA;9131;Grafenstein;Hingbergstraﬂe;82
+39;12;Fronius;9433;St. Andr‰;Graf-Bernadotte-Straﬂe;176
+40;3.9;SolarMax;9020;Klagenfurt am Wˆrthersee;Wilhelm-K¸lz-Straﬂe;90
+41;12.5;SolarMax;9951;Ainet;Waldfrieden;182
+42;9.2;SolarMax;9400;Wolfsberg;Achter de Stadt;102
+43;11.4;Schneider Electric;9500;Villach;Unitasstraﬂe;140
+44;3.8;ABB;9241;Wernberg;Ringstraﬂe;11
+45;15.8;Huawei;9951;Ainet;Plaidter Weg;194
+46;12.1;SolarMax;9500;Villach;In der Haeg;156
+47;9.3;Huawei;9473;Lavam¸nd;Notscheider Straﬂe;39
+48;6.1;SMA;9170;Ferlach;Br¸ckstraﬂe;29
+49;15.2;SMA;9170;Ferlach;Sahrstraﬂe;164
+50;13.2;SMA;9241;Wernberg;Am Walde;143 c
+51;6.6;SolarMax;9841;Winklern;Elztalstraﬂe;9
+52;4;SolarMax;9170;Ferlach;Kesselinger Straﬂe;61
+53;12.9;Fronius;9433;St. Andr‰;Blumenweg;5
+54;7.7;Fronius;9913;Abfaltersbach;Westumer Straﬂe;179
+55;13.3;Huawei;9170;Ferlach;Lindenhoher Weg;3
+56;8.2;Fronius;9346;Glˆdnitz;Im Dickfeld;133
+57;8.8;Fronius;9500;Villach;Am Hang;29
+58;6.1;SolarMax;9932;Innervillgraten;Deweerthstraﬂe;135
+59;8.2;SolarMax;9241;Wernberg;Gebr¸der-Grimm-Straﬂe;62
+60;9.7;Huawei;9400;Wolfsberg;Hovener Straﬂe;63
+61;17.1;ABB;9181;Feistritz im Rosental;Am Groﬂen Kamp;19
+62;11;Fronius;9020;Klagenfurt am Wˆrthersee;Kernerstraﬂe;118
+63;13;Huawei;9020;Klagenfurt am Wˆrthersee;St¸ttgerhofweg;153
+64;9.4;Fronius;9400;Wolfsberg;Eulerstraﬂe;142
+65;8.1;SolarMax;9131;Grafenstein;Schloﬂfeld;147
+66;4.4;SolarMax;9805;Baldramsdorf;Apfelbaumer Weg;42
+67;15.1;Fronius;9241;Wernberg;Teutonenstraﬂe;144
+68;4.7;ABB;9321;Kappel am Krappfeld;Heddinghausen;2
+69;14.8;SMA;9721;Weiﬂenstein;Jerichostraﬂe;187
+70;7.3;ABB;9400;Wolfsberg;Auf Green;121
+71;12.3;SolarMax;9560;Feldkirchen in K‰rnten;Bundesallee;116
+72;11.5;Fronius;9556;St. Veit an der Glan;Miesgesweg;177
+73;14.1;SMA;9451;Preitenegg;Kallenbachstraﬂe;30
+74;12.1;Fronius;9241;Wernberg;Schwalbenweg;186
+75;4.7;Fronius;9782;Nikolsdorf;Alte Bahn;158
+76;10.7;Fronius;9951;Ainet;B¸chel;120
+77;7;SMA;9635;Dellach;Ladenstraﬂe;175
+78;12.2;ABB;9131;Grafenstein;Rundweg;17
+79;8.8;SolarMax;9560;Feldkirchen in K‰rnten;Katzwinkler Straﬂe;81
+80;4.3;Fronius;9556;St. Veit an der Glan;Kirchenesch;171 c
+81;9.3;Fronius;9562;Himmelberg;Uhlandstraﬂe;105
+82;4.8;Huawei;9400;Wolfsberg;Walgern;66
+83;13.7;Schneider Electric;9900;Lienz;Hˆrster;108
+84;8.8;Huawei;9241;Wernberg;Sterbecker Straﬂe;85
+85;3.4;Huawei;9556;St. Veit an der Glan;Moselpromenade;133
+86;9.2;Schneider Electric;9400;Wolfsberg;Helle;124
+87;9.6;SMA;9560;Feldkirchen in K‰rnten;In der Staring;196
+88;11.2;Huawei;9170;Ferlach;Fercher Straﬂe;67a
+89;13.8;Huawei;9342;Gurk;Am Stoﬂ;143 c
+90;9.7;Fronius;9131;Grafenstein;Elsterweg;7
+91;9.8;SMA;9241;Wernberg;Karl-Wagenfeld-Straﬂe;45
+92;5.6;Fronius;9170;Ferlach;Dierath;195
+93;10.5;Fronius;9900;Lienz;Immingfeldweg;135
+94;14.1;Fronius;9170;Ferlach;Ludewigstraﬂe;44
+95;6.7;Huawei;9143;Feistritz ob Bleiburg;Naheweg;168
+96;12.4;Fronius;9560;Feldkirchen in K‰rnten;Waisenhausstraﬂe;71 a
+97;7.8;Fronius;9241;Wernberg;Alte Vallendarer Straﬂe;125
+98;6.5;Huawei;9400;Wolfsberg;Sandforter Weg;171
+99;15.6;SolarMax;9142;Globasnitz;Nordbahnstraﬂe;38
+100;13.9;Fronius;9020;Klagenfurt am Wˆrthersee;Weetfelder Straﬂe;37
+101;8.8;Huawei;9330;Althofen;Karpfenweg;55
+102;9.5;Fronius;9560;Feldkirchen in K‰rnten;Fuhrstraﬂe;184
+103;14.9;SMA;9556;St. Veit an der Glan;Schraberg;33a
+104;12.4;SolarMax;9375;H¸ttenberg;Am Kaltberg;124
+105;6.1;Huawei;9500;Villach;Im Wieschen;176
+106;10.3;SolarMax;9560;Feldkirchen in K‰rnten;Willicher Straﬂe;119
+107;7;Fronius;9113;Ruden;Rheder Straﬂe;146
+108;5.8;Schneider Electric;9400;Wolfsberg;Alte Bahn;145
+109;13.4;Fronius;9500;Villach;Kalter Rain;179
+110;6.1;SolarMax;9500;Villach;Rheinische Straﬂe;71
+111;12.4;Huawei;9020;Klagenfurt am Wˆrthersee;Balgheimer Straﬂe;195
+112;11.8;Fronius;9560;Feldkirchen in K‰rnten;Heupelbergstraﬂe;80
+113;13.1;Fronius;9155;Neuhaus;Mettmanner Straﬂe;118
+114;11.5;Huawei;9961;Hopfgarten in Defereggen;Am Hamm;168
+115;11.9;Fronius;9530;Bad Bleiberg;In der Bitz;82
+116;9.4;Fronius;9500;Villach;Oberer Buigenweg;82
+117;10.9;Fronius;9113;Ruden;Zimmerstraﬂe;109
+118;7.2;SMA;9020;Klagenfurt am Wˆrthersee;Am Weikert;104
+119;4;Fronius;9232;Rosegg;B¸dinger Straﬂe;36
+120;5.9;Fronius;9131;Grafenstein;Kelterser Straﬂe;66
+121;5.8;ABB;9133;Sittersdorf;Bernhard-Holtmann-Straﬂe;50
+122;11;Huawei;9020;Klagenfurt am Wˆrthersee;Lˆher Weg;94 b
+123;8.5;Huawei;9556;St. Veit an der Glan;Altenhofer Straﬂe;8
+124;7.4;Fronius;9334;Guttaring;Oestricher Straﬂe;143
+125;8.4;SMA;9372;Eberstein;Adolfstraﬂe;149
+126;9.1;Huawei;9113;Ruden;Alpener Straﬂe;43
+127;11.3;Fronius;9900;Lienz;B‰derstraﬂe;196
+128;13.9;Fronius;9346;Glˆdnitz;Heidegarten;121
+129;15.9;SolarMax;9500;Villach;Lammersdorfer Straﬂe;58
+130;13.4;Fronius;9131;Grafenstein;Broicher Straﬂe;2
+131;15.1;SolarMax;9400;Wolfsberg;Johann-Krane-Weg;100
+132;5;Fronius;9141;Eberndorf;Sallstraﬂe;89
+133;8;Huawei;9900;Lienz;Akazienstraﬂe;179
+134;8;SolarMax;9754;Steinfeld;Gasselstiege;134
+135;4.7;ABB;9560;Feldkirchen in K‰rnten;H¸lsebrockstraﬂe;82
+136;3.2;Fronius;9721;Weiﬂenstein;Am Limes;98
+137;11.8;Fronius;9220;Velden am Wˆrther See;Werother Weg;133
+138;6.5;SMA;9562;Himmelberg;Im Flothfeld;117
+139;3.3;Fronius;9131;Grafenstein;Elberfelder Straﬂe;52
+140;8.8;Huawei;9556;St. Veit an der Glan;Elsternweg;100
+141;5.7;Fronius;9462;Bad St. Leonhard im Lavanttal;Rickenstraﬂe;162
+142;5.3;Fronius;9543;Arriach;Pellmannssteg;92
+143;13.7;SolarMax;9400;Wolfsberg;Hugo-Mueller-Straﬂe;8b
+144;13.2;Huawei;9241;Wernberg;Loogher Straﬂe;17
+145;3.2;Huawei;9131;Grafenstein;Hˆchstberger Straﬂe;8
+146;15.8;Fronius;9131;Grafenstein;Haagstraﬂe;179
+147;10.2;Huawei;9173;St. Margareten im Rosental;Postenweg;136
+148;10.8;Fronius;9560;Feldkirchen in K‰rnten;Steinbergen;118
+149;8;Fronius;9943;Untertilliach;Kirchplatz;181
+150;5.3;Fronius;9900;Lienz;Am Hohen Rain;132b
+151;12.4;Fronius;9131;Grafenstein;Winzler Straﬂe;111
+152;14.7;SolarMax;9602;Hohenthurn;Maximilianstraﬂe;10 c
+153;6.5;SMA;9900;Lienz;Fliethgraben;32
+154;5.1;SMA;9900;Lienz;Robert-Schumann-Straﬂe;165
+155;8;Schneider Electric;9020;Klagenfurt am Wˆrthersee;Letter Straﬂe;70
+156;10.6;Fronius;9470;St. Paul im Lavanttal;Grillparzerweg;136
+157;12.1;SolarMax;9241;Wernberg;Am M¸hlberg;73
+158;9.3;Huawei;9560;Feldkirchen in K‰rnten;St.-Wendeler-Straﬂe;8
+159;3.6;Fronius;9400;Wolfsberg;Ahrweg;41
+160;9.6;SolarMax;9556;St. Veit an der Glan;Zum Wingert;114
+161;12.3;ABB;9130;Poggersdorf;Waldenburger Straﬂe;188
+162;14.2;Huawei;9063;Maria Saal;Nikolaus-Groﬂ-Straﬂe;57
+163;13;SolarMax;9500;Villach;Bezirksstraﬂe;103
+164;15.5;Schneider Electric;9560;Feldkirchen in K‰rnten;Kulmstraﬂe;40
+165;4.8;Fronius;9313;St. Georgen am L‰ngsee;Staudig;27
+166;5.4;SolarMax;9500;Villach;Nobelstraﬂe;10
+167;13.3;Fronius;9941;Kartitsch;Am Schˆnblick;29
+168;5.9;Fronius;9560;Feldkirchen in K‰rnten;Theodor-Kˆrner-Straﬂe;59
+169;9.9;Fronius;9170;Ferlach;An der Alten Burg;38
+170;4.4;Fronius;9170;Ferlach;Friedhofstraﬂe;26
+171;13.6;Fronius;9131;Grafenstein;Uferstraﬂe;192
+172;14.3;ABB;9131;Grafenstein;Unter der Lay;119
+173;3.4;Huawei;9872;Millstatt am See;Beringallee;64
+174;8.1;Huawei;9560;Feldkirchen in K‰rnten;Merowinger Straﬂe;7
+175;6.1;Fronius;9544;Feld am See;Kretenbergstraﬂe;118
+176;6.2;ABB;9900;Lienz;Im Ohndorf;89
+177;11.6;SolarMax;9560;Steuerberg;Frankenfeld;123
+178;10.5;ABB;9543;Arriach;Falkensteinweg;156
+179;9.1;SolarMax;9062;Moosburg;Falkenweg;37
+180;5.9;ABB;9560;Feldkirchen in K‰rnten;M¸hlenacker;176
+181;13.4;Fronius;9300;St. Veit an der Glan;Bernhard-Holtmann-Straﬂe;169
+182;12.2;Fronius;9020;Klagenfurt am Wˆrthersee;Am Lanfergraben;58
+183;13.8;SolarMax;9556;Liebenfels;Silcherstraﬂe;167
+184;12.3;SolarMax;9400;Wolfsberg;Zum R¸sperwald;41
+185;8.8;Fronius;9554;St. Urban;Waldorfer Straﬂe;188
+186;8.1;SolarMax;9170;Ferlach;Hohe Acht;112
+187;14.3;SolarMax;9241;Wernberg;Im Weiler;72
+188;7.4;SMA;9900;Lienz;Am Sundern;159
+189;10;ABB;9900;Lienz;Bergsteg;186
+190;12.2;Huawei;9241;Wernberg;Langenhorster Stiege;153
+191;11.8;Fronius;9241;Wernberg;Frauentorstraﬂe;40
+192;3.3;Huawei;9473;Lavam¸nd;Konradstraﬂe;137
+193;14.7;Fronius;9635;Dellach;Ahlerweg;168
+194;7.8;Fronius;9400;Wolfsberg;Wochenendhausgebiet;64
+195;12.4;ABB;9064;Magdalensberg;Im Christental;90
+196;7.4;Huawei;9543;Arriach;Hahnseifenstraﬂe;15
+197;11.6;Schneider Electric;9500;Villach;Genovevastraﬂe;86
+198;7.5;Fronius;9932;Innervillgraten;Nicolaistraﬂe;14
+199;12.5;Huawei;9754;Steinfeld;B¸rgelstraﬂe;168
+200;4.4;Schneider Electric;9131;Grafenstein;Sonnenstraﬂe;99
+201;8.3;Schneider Electric;9131;Grafenstein;Goerdelerstraﬂe;93
+202;3.8;SolarMax;9500;Villach;Gottfried-Keller-Straﬂe;164
+203;9.1;SolarMax;9143;Feistritz ob Bleiburg;Im Kochbrunnen;131
+204;11.6;Fronius;9500;Villach;Hofkoppel;157
+205;11.9;Schneider Electric;9556;St. Veit an der Glan;Dechant-Fenger-Straﬂe;77
+206;4.2;Fronius;9500;Villach;Zur Beckhove;47
+207;11.2;SolarMax;9241;Wernberg;Ohligser Straﬂe;125
+208;5.1;Schneider Electric;9712;Fresach;Heidm¸hlenweg;32
+209;12.5;Fronius;9954;Schlaiten;Tillystraﬂe;154
+210;4.8;SolarMax;9560;Feldkirchen in K‰rnten;Unterdorfstraﬂe;90
+211;10.6;Fronius;9241;Wernberg;Schimmelbuschstraﬂe;143
+212;11.2;SolarMax;9232;Rosegg;Klein-Buchholzer Kirchweg;19
+213;6.3;Fronius;9500;Villach;Holtweg;156
+214;10;Schneider Electric;9500;Villach;Leystraﬂe;153
+215;5.8;Fronius;9556;St. Veit an der Glan;Im Schafst¸ck;11
+216;14.9;Huawei;9952;St. Johann im Walde;Jungfrauenthal;123
+217;6.5;Fronius;9556;St. Veit an der Glan;Im Frohntal;52
+218;14.9;Huawei;9570;Ossiach;Emil-Nolde-Straﬂe;148
+219;7.6;Fronius;9112;Griffen;Hegebrockstraﬂe;34
+220;11.4;SMA;9555;Glanegg;Nistenbergstraﬂe;31
+221;13.4;SolarMax;9918;Strassen;Im Hirschfeld;8
+222;13.4;Huawei;9241;Wernberg;Alfred-Nobel-Straﬂe;198
+223;4.4;Fronius;9556;St. Veit an der Glan;Schlehdornweg;106
+224;6.8;Fronius;9400;Wolfsberg;Am Steinbruch;175
+225;6.4;Fronius;9241;Wernberg;Auf der Hardt;72
+226;14.1;ABB;9184;St. Jakob im Rosental;Webergasse;30
+227;14.6;SolarMax;9131;Grafenstein;Rebhuhnweg;177
+228;8.3;Fronius;9920;Sillian;Kurt-Schumacher-Allee;85
+229;5.8;SolarMax;9173;St. Margareten im Rosental;Hofweg;41
+230;14.6;Fronius;9020;Klagenfurt am Wˆrthersee;Buschm¸hlenweg;170
+231;14.6;Fronius;9360;Friesach;Saynstraﬂe;128
+232;15.4;Schneider Electric;9908;Amlach;Gustav-Tweer-Weg;134
+233;11.1;Schneider Electric;9711;Paternion;Von-Galen-Straﬂe;82
+234;13.7;SolarMax;9560;Feldkirchen in K‰rnten;Bˆnener Straﬂe;59
+235;5.2;Huawei;9020;Klagenfurt am Wˆrthersee;Thielenstraﬂe;182
+236;4.2;Fronius;9130;Poggersdorf;Im Sauerhals;100
+237;8.2;SMA;9020;Klagenfurt am Wˆrthersee;Langenbergstraﬂe;17
+238;7.7;Schneider Electric;9130;Poggersdorf;Am alten Garten;181
+239;13.8;Huawei;9500;Villach;Kleringstraﬂe;109
+240;14.9;Huawei;9500;Villach;Heidefeldstraﬂe;67
+241;14.2;Fronius;9072;Ludmannsdorf;H¸bingerweg;183
+242;14.3;SolarMax;9556;St. Veit an der Glan;Brinkstraﬂe;8
+243;15.6;Huawei;9560;Feldkirchen in K‰rnten;Merziger Straﬂe;45
+244;5.1;Fronius;9908;Amlach;Burggraben;100
+245;8.9;Fronius;9170;Ferlach;Liststraﬂe;140
+246;3.2;SolarMax;9170;Ferlach;Droste-zu-Senden-Straﬂe;9
+247;12.4;SMA;9131;Grafenstein;Becherstraﬂe;8
+248;10.1;SolarMax;9556;St. Veit an der Glan;Falltorweg;72
+249;4.7;SolarMax;9131;Grafenstein;Borker Straﬂe;82
+250;3.7;Huawei;9781;Oberdrauburg;Nistenbergstraﬂe;94
+251;10.5;Fronius;9170;Ferlach;Grevener Straﬂe;163
+252;10.9;ABB;9556;St. Veit an der Glan;Im Groﬂen Esch;9
+253;44.2;Fronius;9500;Villach;Am Oberbach;73
+254;42.5;Fronius;9020;Klagenfurt am Wˆrthersee;Fabrikstraﬂe;47
+255;13.3;Huawei;9560;Feldkirchen in K‰rnten;Am Bergacker;18
+256;10.2;Fronius;9560;Feldkirchen in K‰rnten;Wilhelmstraﬂe;76
+257;8.3;ABB;9500;Villach;Frauenberger Straﬂe;157
+258;11.2;SolarMax;9833;Rangersdorf;Im Maerenthal;17
+259;7.5;Fronius;9132;Gallizien;Schlafheckelchen;159
+260;8.4;Fronius;9181;Feistritz im Rosental;Alte Hofstraﬂe;27
+261;5.1;Schneider Electric;9556;St. Veit an der Glan;Linzhausenstraﬂe;134
+262;8.8;Fronius;9556;St. Veit an der Glan;St.-Thomas-Straﬂe;66
+263;14;Fronius;9904;Thurn;Eschbach;63
+264;10.5;Fronius;9020;Klagenfurt am Wˆrthersee;Am Steig;176
+265;8.6;ABB;9241;Wernberg;Wiltbergstraﬂe;169
+266;4.3;Fronius;9545;Radenthein;R¸desheimer Straﬂe;146
+267;11.1;Fronius;9131;Grafenstein;Germaniastraﬂe;49
+268;9.3;Fronius;9833;Rangersdorf;Zum Bleiberg;132
+269;6.4;Schneider Electric;9132;Gallizien;Reinerzauer Unterdˆrfle;191
+270;15.6;Fronius;9063;Maria Saal;Ernteweg;189b
+271;3.4;Huawei;9560;Feldkirchen in K‰rnten;Lehmkuhle;184
+272;9.3;Schneider Electric;9181;Feistritz im Rosental;Naendorf;16
+273;15.9;Huawei;9020;Klagenfurt am Wˆrthersee;Im Emscherbruch;132
+274;11;SolarMax;9400;Wolfsberg;Walbecker Straﬂe;27
+275;11.6;SolarMax;9900;Lienz;Sonnenhof;183
+276;4.7;Huawei;9241;Wernberg;Dahlweg;117
+277;5;Fronius;9942;Obertilliach;Heidenheimer Straﬂe;159
+278;4.3;SolarMax;9900;Lienz;Wallersheimer Weg;54
+279;7.3;Fronius;9400;Wolfsberg;St. Florinusstraﬂe;184
+280;10;Fronius;9613;Feistritz an der Gail;Hˆlterhofer Straﬂe;143
+281;13.9;SMA;9131;Grafenstein;Hirtenstraﬂe;156
+282;6.6;Fronius;9906;Lavant;Kaiser-Joseph-Straﬂe;53
+283;6.5;SMA;9131;Grafenstein;Lorkenhˆhe;16
+284;15.6;Fronius;9241;Wernberg;An der Struth;86
+285;15.3;Fronius;9170;Ferlach;Am Park;85
+286;8.5;SolarMax;9613;Feistritz an der Gail;Schumannweg;185
+287;11.4;SolarMax;9300;Frauenstein;Frankenring;3
+288;4.1;SolarMax;9423;St. Georgen im Lavanttal;Buschweg;48
+289;9.3;Huawei;9423;St. Georgen im Lavanttal;Am Eicherbusch;107
+290;9.8;Fronius;9909;Leisach;Im Plenter;188
+291;13;Fronius;9900;Lienz;Burgfrieden;169
+292;5;Fronius;9900;Lienz;Lohfeldstraﬂe;27
+293;7.3;Fronius;9900;Lienz;Niederwipper;195
+294;10.4;Huawei;9170;Ferlach;In der Stehle;155
+295;15.1;Huawei;9556;St. Veit an der Glan;Moselblickstraﬂe;34
+296;7.2;Fronius;9500;Villach;Am Dickenstein;102
+297;12.8;SMA;9952;St. Johann im Walde;Heidestraﬂe;100
+298;13.7;ABB;9241;Wernberg;Sulmisheimer Weg;114
+299;3.4;ABB;9635;Dellach;Pestelstraﬂe;16
+300;12.6;SolarMax;9761;Greifenburg;Bornst¸ck;157 a
+301;5.4;Huawei;9170;Ferlach;Frauenberger Straﬂe;13c
+302;10.1;ABB;9400;Wolfsberg;Grefrather Straﬂe;40
+303;6.3;Huawei;9170;Ferlach;Am Rosengarten;3
+304;14.3;SolarMax;9020;Klagenfurt am Wˆrthersee;An der Bahn;8
+305;9.8;Fronius;9900;Lienz;Rosenweg;96
+306;11.3;SMA;9943;Untertilliach;Roetgenbachstraﬂe;118
+307;14;ABB;9400;Wolfsberg;Weinbergstraﬂe;37
+308;13;Huawei;9900;Lienz;Auf dem Hegekamp;33
+309;9.1;Fronius;9711;Paternion;Aktienstraﬂe;143
+310;8.6;SolarMax;9570;Ossiach;Amperau;149
+311;9;ABB;9900;Lienz;Oberbergstraﬂe;170
+312;15.2;Huawei;9170;Ferlach;Steinbergsweg;185
+313;15.4;Fronius;9131;Grafenstein;Weyerbuscher Weg;36a
+314;7.5;Fronius;9500;Villach;Paderborner Straﬂe;28
+315;6;ABB;9400;Wolfsberg;Rembrandtstraﬂe;152
+316;12.6;SolarMax;9951;Ainet;Neuenteich;19
+317;12;ABB;9241;Wernberg;Elzerhˆfe;59
+318;12.2;SMA;9241;Wernberg;Heppinger Straﬂe;42 c
+319;9.5;Fronius;9400;Wolfsberg;Auf der Alm;154
+320;7.2;SolarMax;9909;Leisach;Severinusstraﬂe;188
+321;4.3;Fronius;9601;Arnoldstein;Am Grauen Stein;168c
+322;6.4;Fronius;9900;Lienz;Im Br¸hl;195
+323;14.5;SolarMax;9241;Wernberg;Sommerstraﬂe;41
+324;8.9;SolarMax;9423;St. Georgen im Lavanttal;Adolph-Kolping-Straﬂe;65
+325;7.2;Huawei;9556;St. Veit an der Glan;Mobilheimpark;100
+326;14.1;SMA;9131;Grafenstein;Grube-Victoria-Straﬂe;20
+327;13.2;Huawei;9556;Liebenfels;Freiheitstraﬂe;88
+328;5.4;Fronius;9500;Villach;Rosenaustraﬂe;194
+329;5.1;SolarMax;9170;Ferlach;An der Hardt;102
+330;14.6;ABB;9300;St. Veit an der Glan;Eschbachstraﬂe;21
+331;11.7;Fronius;9131;Grafenstein;Sentmaringer Weg;193
+332;4.2;Fronius;9560;Feldkirchen in K‰rnten;Rother Straﬂe;85
+333;6.2;Fronius;9330;Mˆlbling;Am Burgberg;158
+334;9.8;Huawei;9131;Grafenstein;Weitefelder Garten;127
+335;10.4;SMA;9020;Klagenfurt am Wˆrthersee;Am Hohlen Stein;71
+336;11.9;Huawei;9560;Feldkirchen in K‰rnten;Strackenweg;28
+337;14.7;SolarMax;9372;Eberstein;Am Mathagen;167
+338;5;Fronius;9170;Ferlach;R¸desheimer Straﬂe;104
+339;11;Fronius;9900;Lienz;Am Walde;1
+340;11.8;Huawei;9313;St. Georgen am L‰ngsee;Steinacker Straﬂe;113
+341;13.7;SolarMax;9232;Rosegg;Seckacher Straﬂe;26
+342;14.7;Huawei;9241;Wernberg;B¸hlingen;82
+343;15;Fronius;9961;Hopfgarten in Defereggen;Hoetmarer Straﬂe;4
+344;8.2;Huawei;9241;Wernberg;Scheidstraﬂe;13
+345;6.9;Schneider Electric;9500;Villach;Zum Guten Hirten;126
+346;5.1;Huawei;9170;Ferlach;Spinnereistraﬂe;174
+347;4.4;Fronius;9900;Lienz;Zur Alten Wiese;195
+348;7.7;Fronius;9131;Grafenstein;Auf der B¸hnhardt;140
+349;12.1;Huawei;9761;Greifenburg;Am Kr‰henacker;64
+350;13.3;Huawei;9602;Hohenthurn;Am Oedingteich;69
+351;15.8;SolarMax;9133;Sittersdorf;Telgenweg;84
+352;8.7;SolarMax;9020;Klagenfurt am Wˆrthersee;Gl‰rbach;166
+353;10.8;Fronius;9371;Br¸ckl;Gustav-Werner-Straﬂe;114
+354;4.5;Fronius;9241;Wernberg;Wiefeldicker Straﬂe;24
+355;14.6;SolarMax;9330;Althofen;Lynarstraﬂe;47
+356;12.6;Huawei;9556;St. Veit an der Glan;Schlafheckelchen;84 a
+357;5.5;Fronius;9932;Innervillgraten;Am H¸gel;154
+358;9.9;Schneider Electric;9635;Dellach;Oberer Weg;16
+359;7.8;Schneider Electric;9560;Feldkirchen in K‰rnten;Oberbieberer Straﬂe;184
+360;12.6;SMA;9241;Wernberg;Habichtshˆhe;110
+361;14.8;Fronius;9542;Afritz am See;Eichhofstraﬂe;162
+362;13.2;Schneider Electric;9020;Klagenfurt am Wˆrthersee;Logsteenweg;50
+363;11.1;Fronius;9918;Strassen;Balkertsweg;140
+364;9.5;Fronius;9400;Wolfsberg;Dorbaumstraﬂe;180
+365;5.2;Huawei;9570;Ossiach;Im Streit‰cker;79 b
+366;7.1;SolarMax;9063;Maria Saal;Eichberg;96
+367;11.3;ABB;9563;Gnesau;In der Burg;142
+368;13.5;SolarMax;9170;Ferlach;T¸rnicher Straﬂe;24
+369;3.6;SolarMax;9556;St. Veit an der Glan;K‰mpensiedlung;179
+370;7.1;Fronius;9560;Feldkirchen in K‰rnten;Buchenweg;30
+371;11.6;ABB;9220;Velden am Wˆrther See;Seckacher Straﬂe;156b
+372;4;SolarMax;9811;Lendorf;Fillbachstraﬂe;24
+373;12.7;Schneider Electric;9500;Villach;Im Hufen Boden;1
+374;15.1;Schneider Electric;9560;Feldkirchen in K‰rnten;Reichweindamm;145
+375;15.3;Huawei;9702;Ferndorf;Sportplatzweg;125
+376;9.6;Fronius;9400;Wolfsberg;Berliner Platz;82
+377;12.1;SolarMax;9020;Klagenfurt am Wˆrthersee;Weitblick;90 a
+378;5.6;SMA;9462;Bad St. Leonhard im Lavanttal;Rosenbergstraﬂe;133
+379;15.1;ABB;9821;Obervellach;Wehrholzstraﬂe;129
+380;8.5;SolarMax;9020;Klagenfurt am Wˆrthersee;Heinrich-Bˆll-Straﬂe;97
+381;11.5;ABB;9131;Grafenstein;Felmicke;106
+382;5;SolarMax;9500;Villach;Falkensteiner Straﬂe;99
+383;5.5;Huawei;9371;Br¸ckl;Mehrbachstraﬂe;151
+384;7.8;Huawei;9900;Lienz;Zum Hahn;187
+385;4.4;SMA;9556;St. Veit an der Glan;Frankenweg;38
+386;12.3;SolarMax;9400;Wolfsberg;Scheideweg;126
+387;11.1;Huawei;9556;St. Veit an der Glan;Im Rosenbusch;9
+388;9.2;SMA;9900;Lienz;Michaelstraﬂe;92
+389;6.7;Huawei;9463;Reichenfels;Hospitalstraﬂe;165 b
+390;9.8;SMA;9150;Bleiburg;Am Kollenhof;169
+391;15.8;ABB;9814;M¸hldorf;Bˆhmenseite;57
+392;13.6;Huawei;9556;St. Veit an der Glan;W¸lfrather Straﬂe;99b
+393;7.3;Huawei;9918;Strassen;Nordh‰user Straﬂe;68
+394;3.8;SMA;9556;St. Veit an der Glan;Brehmacker;140
+395;14.1;SMA;9170;Ferlach;Ehrenberg;5
+396;12.4;ABB;9500;Villach;Wildenbruchstraﬂe;12
+397;11.7;Fronius;9560;Feldkirchen in K‰rnten;Kammerwald;10
+398;11.6;Huawei;9900;Lienz;Im Kirchenbungert;1
+399;3.5;ABB;9470;St. Paul im Lavanttal;Barrwiese;161
+400;10.2;Huawei;9500;Villach;M¸hltal;171
+401;14.4;Fronius;9831;Flattach;Oscar-Wilde-Straﬂe;67
+402;13.5;Huawei;9241;Wernberg;Schmerbachstraﬂe;66
+403;4.2;Fronius;9400;Wolfsberg;Bermbacher Weg;101
+404;8.2;SolarMax;9545;Radenthein;Oehndorfstraﬂe;118
+405;6.6;Fronius;9560;Feldkirchen in K‰rnten;Lange Straﬂe;147
+406;7.9;SolarMax;9170;Ferlach;Seelbacher Straﬂe;62
+407;8;Huawei;9900;Lienz;Albaumer Straﬂe;22
+408;4.2;Fronius;9020;Klagenfurt am Wˆrthersee;Oberbieberer Straﬂe;47
+409;8.2;SMA;9545;Radenthein;Eintrachtstraﬂe;65
+410;13.6;Fronius;9556;St. Veit an der Glan;Kervenheimer Straﬂe;18
+411;11.7;SolarMax;9971;Matrei in Osttirol;Im Kehr;198
+412;11.2;SolarMax;9170;Ferlach;Am Fuchsberg;52
+413;15;SolarMax;9360;Friesach;Prinzregentenstraﬂe;46
+414;4.4;Fronius;9500;Villach;Mauritiusstraﬂe;37
+415;8.4;Schneider Electric;9346;Glˆdnitz;Sportplatzstraﬂe;78
+416;7.9;Schneider Electric;9131;Grafenstein;Vitusstraﬂe;117
+417;11.5;ABB;9556;St. Veit an der Glan;Osnabr¸cker Straﬂe;2
+418;14.9;Schneider Electric;9560;Feldkirchen in K‰rnten;Opperhusener Straﬂe;44
+419;10.8;Fronius;9020;Klagenfurt am Wˆrthersee;Stˆcken;105
+420;5.9;Fronius;9556;St. Veit an der Glan;Walkersbrunn;71
+421;7.7;Schneider Electric;9020;Klagenfurt am Wˆrthersee;Georgsweiler Straﬂe;182
+422;3.7;Huawei;9020;Klagenfurt am Wˆrthersee;Brauerstraﬂe;82
+423;9.4;SMA;9832;Stall;Theresienstraﬂe;14
+424;5.6;Fronius;9562;Himmelberg;Fritz-Henkel-Straﬂe;72b
+425;13.7;Schneider Electric;9773;Irschen;Ochtruper Straﬂe;18
+426;10.1;Fronius;9556;St. Veit an der Glan;Am Steig;24
+427;5;Fronius;9781;Oberdrauburg;Welpestraﬂe;172
+428;13.8;SolarMax;9170;Ferlach;Witzheldener Straﬂe;177
+429;10.1;SolarMax;9556;St. Veit an der Glan;Rathenaustraﬂe;6
+430;7.2;Huawei;9909;Leisach;Auf der alten Fuhr;27
+431;10.8;Fronius;9952;St. Johann im Walde;Am Erlkˆnig;173
+432;15.2;Huawei;9900;Lienz;Hopfenweg;130
+433;4.4;ABB;9500;Villach;John-F.-Kennedy-Straﬂe;99
+434;11.2;Fronius;9241;Wernberg;K¸ckerstraﬂe;83
+435;3.5;SolarMax;9632;Kirchbach;Hangweg;148
+436;12.9;ABB;9020;Klagenfurt am Wˆrthersee;St. Sebastianusstraﬂe;17
+437;155;ABB;9613;Feistritz an der Gail;Feldmark;120
+438;9.1;SolarMax;9900;Lienz;Heubergsweg;64
+439;12.8;Fronius;9241;Wernberg;Fritzengasse;181
+440;13;Fronius;9400;Wolfsberg;Kesselstraﬂe;22
+441;4.3;Schneider Electric;9112;Griffen;Burgweg;143
+442;13.9;Fronius;9904;Thurn;Am H¸gel;79
+443;44.3;Huawei;9811;Lendorf;Immenweg;153 b
+444;13.1;Fronius;9071;Kˆttmannsdorf;Hessenring;186
+445;9.1;Fronius;9872;Millstatt am See;Handwerkerstraﬂe;160
+446;8.7;Fronius;9500;Villach;Auf dem Kleinfeld;184
+447;8;SMA;9554;St. Urban;Fritzlarer Straﬂe;98
+448;6.3;Huawei;9072;Ludmannsdorf;Am Grendel;28 b
+449;8.3;Schneider Electric;9241;Wernberg;Schildsheider Straﬂe;129
+450;5.7;SMA;9170;Ferlach;Am Nubbenberg;33
+451;11.8;Fronius;9570;Ossiach;Tie-Esch-Straﬂe;109
+452;13.2;ABB;9241;Wernberg;Meierskamp;190
+453;11.6;SolarMax;9131;Grafenstein;Wittestraﬂe;138
+454;13.6;ABB;9020;Klagenfurt am Wˆrthersee;Batzensteg;56
+455;11.9;SMA;9400;Wolfsberg;Heiligenhausstraﬂe;134
+456;6.2;Schneider Electric;9560;Feldkirchen in K‰rnten;Kurtstraﬂe;198
+457;15.5;Fronius;9761;Greifenburg;Gangolfusstraﬂe;18
+458;10.4;Fronius;9773;Irschen;Reuschenlay;183
+459;4.9;Fronius;9321;Kappel am Krappfeld;Uellendahler Straﬂe;111
+460;7.4;Fronius;9400;Wolfsberg;An der Floeth;115c
+461;12.1;SMA;9020;Klagenfurt am Wˆrthersee;Schleidener Straﬂe;157
+462;7.1;Schneider Electric;9871;Seeboden;Rudolf-Virchow-Straﬂe;63
+463;8.4;Huawei;9170;Ferlach;Carl-von-Ossietzky-Straﬂe;41
+464;14.4;Fronius;9400;Wolfsberg;Geiﬂ‰ckerstraﬂe;70
+465;8.9;SolarMax;9872;Millstatt am See;Batzensteg;147
+466;11;SMA;9400;Wolfsberg;Im Herrental;185
+467;12.5;SMA;9920;Sillian;Vallstedter Weg;100
+468;11.3;SMA;9400;Wolfsberg;Stettiner Weg;56
+469;4.4;Fronius;9241;Wernberg;Sieglarer Straﬂe;116
+470;9.7;ABB;9170;Ferlach;Napoleonstraﬂe;196
+471;9.6;Fronius;9300;Frauenstein;Stimbergstraﬂe;13
+472;12.1;Huawei;9556;St. Veit an der Glan;Auf dem Kamp;71
+473;6.2;Fronius;9131;Grafenstein;Faggenwinkel;170
+474;14;Fronius;9451;Preitenegg;Landwehrweg;179
+475;4;SolarMax;9142;Globasnitz;Am Pfaffengraben;83
+476;7.8;Fronius;9871;Seeboden;Hombergstraﬂe;189
+477;4.9;Schneider Electric;9334;Guttaring;Zur Schwanenkirche;33
+478;3.6;SMA;9544;Feld am See;Auf der Glate;160
+479;12.4;Fronius;9161;Maria Rain;Menzelstraﬂe;44
+480;14.4;Huawei;9020;Klagenfurt am Wˆrthersee;Ettringer Straﬂe;44
+481;3.3;Fronius;9500;Villach;Bayernstraﬂe;57
+482;9;SolarMax;9500;Villach;Kurf¸rstenwiese;29
+483;7.9;Fronius;9908;Amlach;Im Bruch;65
+484;12.2;Fronius;9800;Spittal an der Drau;Marienbader Straﬂe;105
+485;8.1;Fronius;9170;Ferlach;Steenbrey;187
+486;9.9;SolarMax;9556;St. Veit an der Glan;Am Kampe;134
+487;8;Fronius;9560;Feldkirchen in K‰rnten;Weitefelder Straﬂe;59
+488;7.8;Huawei;9500;Villach;Haggenm¸llerstraﬂe;120
+489;7.2;SolarMax;9601;Arnoldstein;Kommerner Straﬂe;104
+490;12.4;ABB;9900;Lienz;Jungstraﬂe;80
+491;9.5;SMA;9500;Villach;Am Neray;196
+492;13.4;SolarMax;9972;Virgen;Emsstraﬂe;113
+493;14.9;ABB;9020;Klagenfurt am Wˆrthersee;Im Brochenbach;143
+494;3.5;SolarMax;9400;Wolfsberg;An der Floﬂwiese;200
+495;12.5;Huawei;9103;Diex;Kaiser-Heinrich-Straﬂe;71
+496;5.2;Huawei;9020;Klagenfurt am Wˆrthersee;Postplatz;157
+497;7.7;Fronius;9330;Mˆlbling;Am Buscheid;24
+498;6.2;Huawei;9601;Arnoldstein;Nelkenstraﬂe;182
+499;13;ABB;9131;Grafenstein;Eschweg;127
+500;8;ABB;9961;Hopfgarten in Defereggen;In der Schleife;173
+501;8.5;SolarMax;9155;Neuhaus;Enzstraﬂe;179
+502;3.9;Schneider Electric;9900;Lienz;Nisterstraﬂe;161
+503;8.9;Fronius;9500;Villach;Rheinhˆhenweg;141
+504;14.7;SolarMax;9912;Anras;Hˆnninger Straﬂe;97
+505;15.2;Fronius;9064;Magdalensberg;Elzstraﬂe;169b
+506;15.1;Fronius;9900;Lienz;Chiemseestraﬂe;48
+507;6.2;SolarMax;9131;Grafenstein;In der Litz;10
+508;5.3;Fronius;9131;Grafenstein;Nordbahnstraﬂe;1
+509;4.3;Huawei;9900;Lienz;Kr‰henweg;145
+510;14.8;Huawei;9714;Stockenboi;Hˆhenring;79
+511;11.6;SMA;9170;Ferlach;Katzwinkler Straﬂe;71
+512;8.3;Huawei;9954;Schlaiten;Frankfurter Straﬂe;9
+513;8.8;SolarMax;9920;Sillian;Eickenpfahl;40
+514;11.7;SolarMax;9556;St. Veit an der Glan;Schmiedsgasse;76
+515;7.4;Fronius;9556;St. Veit an der Glan;An der Thalheck;167
+516;12.4;Fronius;9122;St. Kanzian am Klopeiner See;Lippestraﬂe;95
+517;9.7;SolarMax;9714;Stockenboi;Agnesstraﬂe;74
+518;5.5;Schneider Electric;9470;St. Paul im Lavanttal;Paracelsusstraﬂe;45
+519;10.8;Fronius;9131;Grafenstein;Hertzstraﬂe;193
+520;3.8;Fronius;9400;Wolfsberg;S¸chtelner Straﬂe;39
+521;4.2;Huawei;9143;Feistritz ob Bleiburg;Wahlscheider Straﬂe;173
+522;15.8;SolarMax;9900;Lienz;Karnhˆfener Straﬂe;116
+523;13;Schneider Electric;9832;Stall;Im Rˆtchen;187
+524;5.7;Fronius;9020;Klagenfurt am Wˆrthersee;Marienburgstraﬂe;1
+525;13.2;SolarMax;9463;Reichenfels;In der Hˆll;107
+526;14.1;Huawei;9241;Wernberg;Egerlandstraﬂe;200
+527;5;ABB;9360;Friesach;Driesch;78
+528;10.7;Huawei;9062;Moosburg;Straﬂburger Weg;32
+529;5;SolarMax;9241;Wernberg;Averbeck;168
+530;12.8;Huawei;9020;Klagenfurt am Wˆrthersee;Geilenkirchener Straﬂe;137
+531;12.3;ABB;9833;Rangersdorf;Jahnstraﬂe;106
+532;3;SolarMax;9170;Ferlach;Stadth‰ger Straﬂe;27
+533;5.2;SMA;9900;Lienz;Schelver Diek;97
+534;11.5;SolarMax;9103;Diex;Quellenstraﬂe;68
+535;15.9;Fronius;9241;Wernberg;Untere Bergstraﬂe;10
+536;11.4;Fronius;9900;Lienz;Speichstraﬂe;46
+537;3.9;SolarMax;9500;Villach;Hedem¸ndener Straﬂe;3
+538;3.1;SMA;9500;Villach;Mozartstraﬂe;182
+539;111;Fronius;9071;Kˆttmannsdorf;Heydenstraﬂe;140
+540;8;Fronius;9560;Feldkirchen in K‰rnten;Bremer Weg;186
+541;9.6;Fronius;9556;St. Veit an der Glan;Riedgaustraﬂe;12
+542;10.9;Schneider Electric;9900;Lienz;Gr¸nstraﬂe;142
+543;15.6;SMA;9530;Bad Bleiberg;Junkerstraﬂe;61
+544;7.4;Fronius;9241;Wernberg;Ransbacher Pfad;70
+545;13.8;Schneider Electric;9064;Magdalensberg;Zum Seifen;169
+546;9.3;ABB;9782;Nikolsdorf;Rˆmerh¸gel;6
+547;4.1;Huawei;9131;Grafenstein;Hirschberger Straﬂe;25
+548;3.5;Fronius;9173;St. Margareten im Rosental;Obere Stautenbergstraﬂe;99
+549;13.5;Schneider Electric;9330;Mˆlbling;Steinbitz;12
+550;10;SolarMax;9062;Moosburg;Alter Kirchweg;136
+551;10.6;Fronius;9900;Lienz;Sportplatzweg;122
+552;9.4;Schneider Electric;9560;Feldkirchen in K‰rnten;Brauerstraﬂe;109
+553;4.9;SMA;9906;Lavant;Kermeterstraﬂe;27
+554;14.3;SMA;9831;Flattach;Am Hobborn;7
+555;4.1;Schneider Electric;9782;Nikolsdorf;Am Obergraben;75
+556;4.8;Fronius;9170;Ferlach;Hegestraﬂe;164
+557;14.9;Fronius;9871;Seeboden;Raderbroich;54
+558;6.5;SolarMax;9972;Virgen;Ommelbachstraﬂe;181
+559;9.7;Fronius;9560;Feldkirchen in K‰rnten;Schloﬂfeld;57
+560;8.2;Schneider Electric;9170;Ferlach;R¸bezahlweg;176
+561;15.8;Huawei;9903;Oberlienz;Wurmlinger Straﬂe;31
+562;3.1;Huawei;9560;Steuerberg;Saarlandring;81
+563;12.4;ABB;9330;Mˆlbling;Im Wingert;27
+564;12.4;Fronius;9543;Arriach;Dillenburger Straﬂe;31
+565;7.7;Fronius;9822;Mallnitz;Albrechtstraﬂe;185
+566;10.5;Schneider Electric;9500;Villach;Telgenweg;85
+567;11.3;Fronius;9241;Wernberg;An der Koppe;42
+568;12.6;Fronius;9020;Klagenfurt am Wˆrthersee;Merodestraﬂe;36
+569;4.4;Fronius;9556;St. Veit an der Glan;Rader Straﬂe;1
+570;8.1;ABB;9131;Grafenstein;Goldberger Straﬂe;22
+571;5.6;Fronius;9082;Maria Wˆrth;Zur Au;33
+572;13;SMA;9500;Villach;Ginsterweg;36
+573;6.8;Fronius;9544;Feld am See;Auf dem Rott;26
+574;11.9;ABB;9131;Grafenstein;Brede;122
+575;9.5;SMA;9900;Lienz;Peter-Dausenau-Straﬂe;171
+576;13.9;SolarMax;9900;Lienz;Linderner Straﬂe;118
+577;10.4;SMA;9556;St. Veit an der Glan;Regelsbacher Straﬂe;10 b
+578;4.6;Fronius;9300;St. Veit an der Glan;Lehmkuhle;148
+579;4.2;Huawei;9560;Feldkirchen in K‰rnten;Grimmstraﬂe;124
+580;7.3;Fronius;9556;St. Veit an der Glan;Wohnpark;3
+581;13.1;Huawei;9821;Obervellach;Frankenbachstraﬂe;158
+582;9.2;SolarMax;9170;Ferlach;Kˆln-Aachener-Straﬂe;188
+583;8;Schneider Electric;9170;Ferlach;Weilburger Straﬂe;103
+584;4.7;SolarMax;9313;St. Georgen am L‰ngsee;Im Klobes;88
+585;14.4;SolarMax;9555;Glanegg;Birkenhof;9
+586;7.9;SolarMax;9632;Kirchbach;Von-Holte-Straﬂe;45
+587;9.2;Schneider Electric;9141;Eberndorf;Messeweg;69
+588;8.8;Fronius;9131;Grafenstein;Rudolf-Breitscheid-Straﬂe;141
+589;15.5;Fronius;9500;Villach;Schweriner Straﬂe;27
+590;3.5;Huawei;9131;Grafenstein;Gaulental;167
+591;7.6;Fronius;9942;Obertilliach;Dorfbauerschaft;100
+592;13.5;Fronius;9560;Feldkirchen in K‰rnten;Wachtelstraﬂe;50 b
+593;15.7;SMA;9500;Villach;Grafscherweg;49
+594;4.1;Huawei;9500;Villach;Alte Gasse;140
+595;9;SolarMax;9800;Spittal an der Drau;Am Fuhrenkamp;90
+596;11.6;Huawei;9170;Ferlach;Ankerstraﬂe;4
+597;8.4;Fronius;9822;Mallnitz;Am Tor;140
+598;12.2;ABB;9500;Villach;Heiligenhausstraﬂe;118
+599;9.6;Fronius;9900;Lienz;Ebereschenweg;170
+600;5.1;Fronius;9170;Ferlach;Neum¸hle;141
+601;12.2;Schneider Electric;9556;St. Veit an der Glan;Brˆnenberg;135
+602;14.6;SolarMax;9400;Wolfsberg;Schneidlinger Straﬂe;9
+603;7.9;Schneider Electric;9184;St. Jakob im Rosental;Stadtweg;57
+604;3.8;SolarMax;9020;Klagenfurt am Wˆrthersee;Zum Stˆffel;190c
+605;6.3;Fronius;9400;Wolfsberg;Schefferstraﬂe;119
+606;12;SolarMax;9900;Lienz;Achenbacher Straﬂe;30
+607;10.6;Schneider Electric;9542;Afritz am See;Becklingen;118a
+608;9.1;Fronius;9721;Weiﬂenstein;Postdamm;113
+609;14.5;Huawei;9560;Feldkirchen in K‰rnten;Huser Feld;141
+610;14.5;ABB;9556;St. Veit an der Glan;Tatenhauser Weg;86
+611;12.6;SolarMax;9131;Grafenstein;Oscar-Wilde-Straﬂe;98
+612;8.4;SolarMax;9811;Lendorf;Mausweg;48
+613;13.5;Huawei;9500;Villach;Luisenring;173
+614;7.9;Huawei;9500;Villach;Steinsbergstraﬂe;50
+615;12.1;Huawei;9702;Ferndorf;Weiﬂdornstraﬂe;155
+616;6.1;SolarMax;9754;Steinfeld;Bromberger Straﬂe;81
+617;3.7;ABB;9433;St. Andr‰;Auf der Knippe;114
+618;12.7;Huawei;9556;St. Veit an der Glan;Zur alten Burg;27
+619;14.5;Huawei;9805;Baldramsdorf;Alter Venloer Weg;4
+620;13.4;Fronius;9556;St. Veit an der Glan;Westerholtstraﬂe;84
+621;3.4;Huawei;9811;Lendorf;Brauerstraﬂe;179
+622;5;Schneider Electric;9131;Grafenstein;Pungelscheider Weg;97
+623;8.3;SMA;9155;Neuhaus;Am S¸dpark;177
+624;10.5;Fronius;9334;Guttaring;In der Herrenwiese;148
+625;9.6;Schneider Electric;9562;Himmelberg;Wilkenberg;83 c
+626;13;Huawei;9400;Wolfsberg;Eschelbacher Straﬂe;131
+627;5.5;SolarMax;9556;Liebenfels;Isingort;91
+628;13.6;ABB;9556;St. Veit an der Glan;An der Bergshecke;186
+629;9;Fronius;9241;Wernberg;Bockenbachstraﬂe;52
+630;11.2;Fronius;9500;Villach;Zechenweg;162
+631;13.1;Fronius;9943;Untertilliach;Bergeswiese;17
+632;5.4;Fronius;9805;Baldramsdorf;Forellenstraﬂe;11
+633;9.3;ABB;9560;Feldkirchen in K‰rnten;Hagenower Straﬂe;24
+634;8.4;Fronius;9782;Nikolsdorf;Irmtrauter Straﬂe;175
+635;8.5;Fronius;9020;Klagenfurt am Wˆrthersee;Breitsteinstraﬂe;179
+636;13.1;SolarMax;9556;St. Veit an der Glan;Erbacherstraﬂe;57
+637;11.5;Huawei;9941;Kartitsch;Piusallee;31
+638;8.8;Schneider Electric;9241;Wernberg;Bornst¸ck;54
+639;13.8;Fronius;9170;Ferlach;Bergische Landstraﬂe;33
+640;11.4;Schneider Electric;9913;Abfaltersbach;Hˆchstenbacher Straﬂe;117
+641;4.4;SMA;9330;Althofen;Am M¸hlgraben;117
+642;5.7;SMA;9560;Feldkirchen in K‰rnten;Horstmarer Straﬂe;84
+643;12.2;Huawei;9900;Lienz;Posener Straﬂe;14
+644;12.9;Fronius;9556;St. Veit an der Glan;Rother Straﬂe;48
+645;8.3;SolarMax;9473;Lavam¸nd;Ravensburger Straﬂe;157
+646;12;SolarMax;9020;Klagenfurt am Wˆrthersee;Staufenbergstraﬂe;104
+647;15.7;Huawei;9131;Grafenstein;Lothringer Straﬂe;36
+648;10.6;Schneider Electric;9900;Lienz;Auf dem Kampe;124
+649;8.1;ABB;9170;Ferlach;Molkereiweg;24
+650;11.2;SolarMax;9971;Matrei in Osttirol;Billerbecker Straﬂe;173
+651;14.6;Fronius;9220;Velden am Wˆrther See;Auf Gesetz;125
+652;10.3;ABB;9805;Baldramsdorf;Rabenweg;60
+653;7.6;Fronius;9170;Ferlach;B‰renacker;56
+654;9.7;ABB;9020;Klagenfurt am Wˆrthersee;Sperlingsweg;123
+655;13.6;Huawei;9560;Feldkirchen in K‰rnten;Auf der Hell;159
+656;5.8;Fronius;9131;Grafenstein;An den Weiden;136
+657;12.9;Huawei;9131;Grafenstein;Weyerstraﬂe;88
+658;12.7;Fronius;9560;Feldkirchen in K‰rnten;Schwabstraﬂe;99
+659;6.9;SolarMax;9560;Steuerberg;Luchsweg;100
+660;10.6;Huawei;9400;Wolfsberg;Dienethaler Straﬂe;40
+661;11.7;Fronius;9500;Villach;Am Hobborn;146c
+662;5.5;SolarMax;9563;Gnesau;Hagerstraﬂe;49
+663;11;Fronius;9560;Feldkirchen in K‰rnten;Lingsforter Straﬂe;117
+664;7.2;SolarMax;9170;Ferlach;Nollstraﬂe;30
+665;10.2;Huawei;9602;Hohenthurn;Pfl‰nzergasse;28
+666;4.5;Fronius;9841;Winklern;Eschbach;73
+667;15.8;Huawei;9500;Villach;Am Kissel;42
+668;15.1;ABB;9500;Villach;Burberg;116
+669;15.1;Huawei;9900;Lienz;Junglasstraﬂe;115
+670;4.5;Fronius;9545;Radenthein;An der Hofwiese;160
+671;14.8;SolarMax;9400;Wolfsberg;Am Steinh‰uschen;42
+672;11.2;SolarMax;9560;Feldkirchen in K‰rnten;Auf dem Hof;43
+673;9;Fronius;9020;Klagenfurt am Wˆrthersee;Alte Siedlung;62
+674;10.1;SolarMax;9602;Hohenthurn;Obere Gasse;127
+675;14.8;Schneider Electric;9082;Maria Wˆrth;Haselnuﬂweg;16 c
+676;3.7;Fronius;9556;St. Veit an der Glan;Sonnscheidstraﬂe;159
+677;6.4;Fronius;9554;St. Urban;In der Geweke;85
+678;14;Fronius;9852;Trebesing;Auf der Hˆhe;125
+679;10.8;Fronius;9852;Trebesing;Mutter-Teresa-Straﬂe;77
+680;15.2;SolarMax;9900;Lienz;Bergh‰user Straﬂe;120
+681;15.1;ABB;9560;Feldkirchen in K‰rnten;Peter-Schemmer-Straﬂe;63
+682;10.5;SMA;9071;Kˆttmannsdorf;Kˆlner Weg;155
+683;14.6;ABB;9241;Wernberg;Prozessionsweg;59
+684;4.7;SMA;9400;Wolfsberg;Kemptener Straﬂe;68
+685;4.1;Fronius;9241;Wernberg;Holbeinstraﬂe;36
+686;9.4;SolarMax;9241;Wernberg;Sperlingstraﬂe;4
+687;15;Fronius;9814;M¸hldorf;Bergiusstraﬂe;51
+688;8.5;SMA;9932;Innervillgraten;Auf Cales;8
+689;10.6;Fronius;9184;St. Jakob im Rosental;G‰rtnerweg;196
+690;13.9;SMA;9773;Irschen;Schopfgraben;167
+691;6.6;SMA;9334;Guttaring;Nassauer Weg;8
+692;6.1;Fronius;9130;Poggersdorf;Hovener Straﬂe;181 a
+693;12.3;Huawei;9400;Wolfsberg;Kempenicher Straﬂe;41
+694;3.1;SMA;9082;Maria Wˆrth;Zehntgasse;179
+695;10.5;Fronius;9372;Eberstein;Am Berler Kamp;91
+696;10.2;Fronius;9500;Villach;Im Biewing;86c
+697;8.3;Huawei;9020;Klagenfurt am Wˆrthersee;Zum Osterkamp;95
+698;4.8;Fronius;9556;St. Veit an der Glan;Iserstraﬂe;169
+699;6.6;Fronius;9560;Feldkirchen in K‰rnten;Steegerh¸tte;101
+700;13.6;Huawei;9020;Klagenfurt am Wˆrthersee;Waldblick;113
+701;5.1;SolarMax;9556;St. Veit an der Glan;Wittelsbacherstraﬂe;69
+702;4.4;SolarMax;9241;Wernberg;Schelde-Lahn-Straﬂe;6
+703;14.9;Huawei;9241;Wernberg;Bierstraﬂe;103
+704;10.8;SMA;9900;Lienz;Kleiner Griechenmarkt;103
+705;4.8;Fronius;9906;Lavant;Kevelaerer Straﬂe;7
+706;8.2;Huawei;9142;Globasnitz;Dr.-Grosz-Straﬂe;87
+707;5.7;Huawei;9241;Wernberg;Am Wehebach;114
+708;7.6;SolarMax;9170;Ferlach;Heilenbecker Straﬂe;23
+709;13.8;Fronius;9020;Klagenfurt am Wˆrthersee;Burberg;21
+710;13.2;Huawei;9560;Steuerberg;Im Hofacker;149
+711;4;SMA;9560;Feldkirchen in K‰rnten;Kurt-Tucholsky-Straﬂe;112c
+712;10.4;Schneider Electric;9170;Ferlach;Am Rohbusch;169
+713;5.8;Fronius;9131;Grafenstein;Drovestraﬂe;87
+714;7.7;Huawei;9900;Lienz;Im Christental;38 b
+715;7.3;SMA;9122;St. Kanzian am Klopeiner See;Lobbericher Straﬂe;100
+716;11;SolarMax;9020;Klagenfurt am Wˆrthersee;Groﬂholthuysen;74
+717;6.3;Fronius;9560;Feldkirchen in K‰rnten;Hohenstaufenstraﬂe;166
+718;3.9;Huawei;9563;Gnesau;Kuhheide;185
+719;15.8;SolarMax;9560;Feldkirchen in K‰rnten;Wormersdorfer Straﬂe;41
+720;8.4;SolarMax;9143;Feistritz ob Bleiburg;Heidm¸hlenweg;199
+721;13.8;SolarMax;9903;Oberlienz;Scheﬂlitzer Weg;90
+722;15;Huawei;9131;Grafenstein;Heisterweg;88
+723;12.1;Schneider Electric;9241;Wernberg;Cohausenstraﬂe;95
+724;4.5;Huawei;9360;Friesach;Jubil‰umsstraﬂe;14
+725;4.1;Fronius;9913;Abfaltersbach;Ostmarkstraﬂe;116
+726;4;Fronius;9555;Glanegg;Brede;97
+727;4.9;Schneider Electric;9170;Ferlach;Uferstraﬂe;13
+728;11.7;Fronius;9170;Ferlach;Drosteallee;166
+729;9;Huawei;9220;Velden am Wˆrther See;Offenbacher Straﬂe;184
+730;11.5;SolarMax;9900;Lienz;Sterbecker Straﬂe;35
+731;13.7;ABB;9500;Villach;Stebacher Straﬂe;45
+732;15.5;ABB;9020;Klagenfurt am Wˆrthersee;Lingsforter Straﬂe;46c
+733;14.1;Schneider Electric;9150;Bleiburg;Weingartenstraﬂe;173
+734;8.4;SolarMax;9556;St. Veit an der Glan;In der Wolfshecke;139
+735;7.6;Schneider Electric;9554;St. Urban;Parkweg;82
+736;5.5;Schneider Electric;9852;Trebesing;Kalter Rain;105
+737;10.4;Fronius;9141;Eberndorf;Wilhelm-Schultheis-Straﬂe;149
+738;12.6;Fronius;9400;Wolfsberg;Meierskamp;32
+739;13;SolarMax;9841;Winklern;Greifswalder Straﬂe;41
+740;14.5;SolarMax;9900;Lienz;Netter;99
+741;3.1;SolarMax;9072;Ludmannsdorf;Ladenstraﬂe;175
+742;4.1;Fronius;9473;Lavam¸nd;Holzh‰user Straﬂe;164
+743;4.2;ABB;9112;Griffen;An der Alten Burg;120
+744;12.2;Fronius;9814;M¸hldorf;Breslaustraﬂe;50
+745;5;Fronius;9920;Sillian;Linscheider Straﬂe;145
+746;3.5;Huawei;9103;Diex;Dorper Straﬂe;180
+747;12.6;SolarMax;9342;Gurk;Kreuzstraﬂe;156
+748;4.6;SolarMax;9952;St. Johann im Walde;Bachgasse;94
+749;14.4;Schneider Electric;9900;Lienz;Bornsweg;136
+750;11.4;Fronius;9712;Fresach;Greta-B¸nichmann-Straﬂe;171
+751;7.4;Fronius;9821;Obervellach;Diekland;102
+752;6.3;Huawei;9400;Wolfsberg;Marientalstraﬂe;186
+753;5.8;Fronius;9560;Feldkirchen in K‰rnten;Lange Heide;19
+754;8;Fronius;9133;Sittersdorf;Freier-Grund-Straﬂe;34
+755;14.5;Fronius;9560;Feldkirchen in K‰rnten;Bonhoefferstraﬂe;138
+756;4.3;Huawei;9556;St. Veit an der Glan;Nachrodter Straﬂe;173
+757;15.9;SMA;9346;Glˆdnitz;Elisabeth-Ernst-Straﬂe;143
+758;7.3;Fronius;9423;St. Georgen im Lavanttal;Bodener Straﬂe;1
+759;11.3;Schneider Electric;9556;St. Veit an der Glan;In Venrath;13
+760;5.2;ABB;9542;Afritz am See;Margaretenhˆhe;163
+761;6.5;Fronius;9400;Wolfsberg;In der Oberau;186
+762;3.6;SolarMax;9122;St. Kanzian am Klopeiner See;Irisstraﬂe;3
+763;6.5;Fronius;9170;Ferlach;Gelieustraﬂe;131
+764;14.4;Fronius;9832;Stall;Herrenheeg;177
+765;11.3;ABB;9371;Br¸ckl;Kurstraﬂe;28
+766;15.7;Huawei;9155;Neuhaus;An der Maar;23
+767;14.8;Huawei;9400;Wolfsberg;Hustadtring;182
+768;15.8;SMA;9714;Stockenboi;Naendorf;3
+769;11.5;Fronius;9400;Wolfsberg;Hubertustal;62
+770;5.4;Fronius;9020;Klagenfurt am Wˆrthersee;Schachtstraﬂe;31
+771;8.2;SolarMax;9900;Lienz;Hagelstraﬂe;56
+772;6.9;Huawei;9400;Wolfsberg;Dorotheenstraﬂe;132
+773;9;Fronius;9112;Griffen;Rheinuferstraﬂe;76
+774;4.7;Huawei;9400;Wolfsberg;Ludwig-van-Beethoven-Straﬂe;95
+775;15.6;Schneider Electric;9500;Villach;Kavelocher Hof;125
+776;8.3;Fronius;9711;Paternion;Hinter dem Bach;178
+777;5;Fronius;9900;Lienz;Schadowstraﬂe;16
+778;10.4;SMA;9300;Frauenstein;Am Park;132
+779;3.1;Schneider Electric;9321;Kappel am Krappfeld;Holsterhauser Straﬂe;26
+780;12.3;Fronius;9241;Wernberg;Merler Ring;8
+781;11.3;Huawei;9971;Matrei in Osttirol;Lindenplatz;186
+782;12.3;SMA;9400;Wolfsberg;Walter-Flex-Straﬂe;77
+783;4.3;Fronius;9556;St. Veit an der Glan;Weseker Straﬂe;164
+784;15.7;SolarMax;9131;Grafenstein;Bohlweg;25
+785;5.3;ABB;9400;Wolfsberg;Unterer M¸hlberg;36
+786;12.8;Huawei;9912;Anras;Im St¸ckgarten;129
+787;15.1;Schneider Electric;9241;Wernberg;Ackerweg;24 c
+788;12.3;Schneider Electric;9161;Maria Rain;Marschallstraﬂe;119
+789;4.9;Schneider Electric;9900;Lienz;Ochsenkamp;174
+790;9.4;SolarMax;9463;Reichenfels;Peter-Zilliken-Straﬂe;39
+791;5.3;ABB;9400;Wolfsberg;Am Weidchen;127
+792;6.7;ABB;9131;Grafenstein;Im Dickfeld;148 c
+793;11.7;SolarMax;9941;Kartitsch;Ostheldener Straﬂe;173
+794;5.6;SolarMax;9131;Grafenstein;Gneisenaustraﬂe;121
+795;8.9;SMA;9170;Ferlach;In den Weing‰rten;120
+796;4.3;Schneider Electric;9400;Wolfsberg;Im Wohnpark Nette;92
+797;13.7;Fronius;9131;Grafenstein;Niederseelbach;129
+798;14.7;Fronius;9300;Frauenstein;Gemen;53
+799;13.4;Fronius;9170;Ferlach;Finkenhain;169
+800;11.1;Fronius;9131;Grafenstein;Kleinmaischeider Straﬂe;159
+801;3.1;Schneider Electric;9020;Klagenfurt am Wˆrthersee;Am Struckey;76
+802;9.9;SolarMax;9560;Feldkirchen in K‰rnten;Altrheinstraﬂe;53
+803;12.2;Fronius;9714;Stockenboi;Hochstadenstraﬂe;126
+804;5.4;Fronius;9821;Obervellach;In der Steinhecke;166
+805;13.5;Huawei;9900;Lienz;Rhedung;160
+806;14.3;Huawei;9972;Virgen;Am Wasserstollen;180
+807;9.3;ABB;9113;Ruden;Haus-Berge-Straﬂe;159
+808;14.3;Fronius;9400;Wolfsberg;Schwarzbachstraﬂe;146
+809;7.5;Fronius;9900;Lienz;Zum Acker;4
+810;3.4;Fronius;9321;Kappel am Krappfeld;Am Nothenberg;115
+811;6.7;Fronius;9702;Ferndorf;Marienst‰tter Weg;7
+812;13.3;Schneider Electric;9814;M¸hldorf;Zum Oberdorf;187
+813;15.6;Fronius;9907;Tristach;Am Knapp;84
+814;4.9;Fronius;9020;Klagenfurt am Wˆrthersee;Rahmstraﬂe;63
+815;3.6;Huawei;9972;Virgen;Eichelgasse;48
+816;10.2;Huawei;9909;Leisach;Am Forst;30
+817;14.6;Fronius;9530;Bad Bleiberg;Triftweg;19
+818;4.7;Fronius;9900;Lienz;Werdohler Straﬂe;2
+819;11.1;Fronius;9556;St. Veit an der Glan;Reichenhaller Straﬂe;183
+820;8.6;SolarMax;9170;Ferlach;Bautzener Straﬂe;15
+821;7.7;SolarMax;9020;Klagenfurt am Wˆrthersee;Rudolf-Diesel-Straﬂe;91
+822;4.2;Huawei;9133;Sittersdorf;Kˆmpchen;34
+823;3.8;SolarMax;9900;Lienz;Fritz-Volbach-Straﬂe;27
+824;6.3;Fronius;9020;Klagenfurt am Wˆrthersee;Lutherstraﬂe;57
+825;10.7;SMA;9904;Thurn;Wiesbadener Straﬂe;85
+826;4.1;Schneider Electric;9556;St. Veit an der Glan;In der Hilbach;154
+827;9.2;SolarMax;9020;Klagenfurt am Wˆrthersee;Kehrweg;79
+828;13.6;Fronius;9142;Globasnitz;Sternstraﬂe;33
+829;10;Huawei;9063;Maria Saal;Schwanenweg;81
+830;5.6;Fronius;9560;Feldkirchen in K‰rnten;Am Stock;37
+831;8;SolarMax;9400;Wolfsberg;Bachweg;137
+832;15.2;Fronius;9241;Wernberg;Zum Hellchen;104
+833;14.8;Fronius;9170;Ferlach;Wiefeldicker Straﬂe;168
+834;11.4;Huawei;9800;Spittal an der Drau;L‰ngenfeldweg;37 a
+835;9.2;Schneider Electric;9400;Wolfsberg;Zu den Auen;1
+836;10.7;Fronius;9241;Wernberg;Frankenbachstraﬂe;14
+837;13;SolarMax;9900;Lienz;Am Apostelberg;98
+838;11.2;Fronius;9560;Feldkirchen in K‰rnten;Prozessionsweg;170
+839;15.1;Fronius;9400;Wolfsberg;H¸chelner Straﬂe;10
+840;5.4;SMA;9871;Seeboden;Bˆcklinstraﬂe;104
+841;10.1;Fronius;9342;Gurk;Stolbergstraﬂe;100
+842;8.2;Fronius;9241;Wernberg;Steinbergen;180
+843;4.9;Fronius;9712;Fresach;An der Kehl;61a
+844;7.1;SMA;9560;Feldkirchen in K‰rnten;Ursulastraﬂe;167
+845;10.9;Fronius;9500;Villach;Brassertstraﬂe;169
+846;15.4;SolarMax;9907;Tristach;Mausweg;96
+847;6.1;SolarMax;9241;Wernberg;Masurenweg;178
+848;15.5;Fronius;9903;Oberlienz;Niersstraﬂe;41
+849;4.2;Fronius;9020;Klagenfurt am Wˆrthersee;Steinchen;24
+850;10.3;Huawei;9375;H¸ttenberg;Steinchen;147
+851;11;Fronius;9560;Feldkirchen in K‰rnten;Schˆnbacher Weg;41
+852;11.6;Fronius;9131;Grafenstein;Hauptweg;105
+853;15.3;ABB;9942;Obertilliach;Franz-Hitze-Straﬂe;158
+854;15.4;Huawei;9131;Grafenstein;Im Glockenschall;7
+855;11.4;Huawei;9131;Grafenstein;Holtener Straﬂe;26
+856;4.1;Schneider Electric;9906;Lavant;Bornseifen;48
+857;6.3;Huawei;9400;Wolfsberg;Gr¸ne Gasse;180
+858;11.2;Fronius;9020;Klagenfurt am Wˆrthersee;Hirzenhubstraﬂe;178
+859;11.4;ABB;9560;Feldkirchen in K‰rnten;Droste-zu-Senden-Straﬂe;11
+860;11.2;ABB;9954;Schlaiten;Nordtor;100
+861;5.5;Huawei;9800;Spittal an der Drau;Im Fronhof;163
+862;8.6;Huawei;9613;Feistritz an der Gail;Rinscheweg;187
+863;10.6;SolarMax;9781;Oberdrauburg;Laerer Straﬂe;84
+864;4.8;Schneider Electric;9241;Wernberg;Schmerbachstraﬂe;96
+865;10.5;SolarMax;9020;Klagenfurt am Wˆrthersee;Don-Bosco-Straﬂe;104
+866;5.5;Fronius;9400;Wolfsberg;Damiansweg;154
+867;5.8;Fronius;9131;Grafenstein;Im Gr¸ndchen;142
+868;7.7;Fronius;9103;Diex;Schˆneberger Straﬂe;77
+869;14.6;Fronius;9632;Kirchbach;Bornweg;43
+870;11.3;Fronius;9170;Ferlach;Liegnitzer Straﬂe;96
+871;10.7;Fronius;9832;Stall;Kronackerstraﬂe;16
+872;7.4;SolarMax;9241;Wernberg;Vor dem Bruch;1
+873;9.6;Fronius;9330;Althofen;Gasgartenstraﬂe;156
+874;5.8;SolarMax;9903;Oberlienz;B¸hler Straﬂe;6
+875;3.2;Fronius;9082;Maria Wˆrth;In den Hˆfen;138
+876;8.7;Schneider Electric;9400;Wolfsberg;Tondernstraﬂe;4 b
+877;15.4;Fronius;9241;Wernberg;W¸rselener Straﬂe;166
+878;7.3;Schneider Electric;9943;Untertilliach;Kirschbaumstraﬂe;40
+879;5.6;SMA;9560;Feldkirchen in K‰rnten;Im Nordfelde;31
+880;8.8;SolarMax;9556;St. Veit an der Glan;Saelhuysen;45
+881;5.6;Huawei;9841;Winklern;Marderstraﬂe;29
+882;9.8;SMA;9712;Fresach;Im Kamp;117
+883;11.2;SMA;9556;St. Veit an der Glan;Provinzialstraﬂe;73
+884;4.1;Fronius;9170;Ferlach;Wiedenhof;16
+885;11;Fronius;9400;Wolfsberg;Heerener Straﬂe;128 a
+886;6.9;Huawei;9170;Ferlach;Frankenhof;103
+887;16;Schneider Electric;9904;Thurn;Nasse Heide;194
+888;4.8;Fronius;9150;Bleiburg;Hinterdorf;113
+889;7.1;Huawei;9020;Klagenfurt am Wˆrthersee;Langenhahner Straﬂe;79
+890;11.7;Fronius;9161;Maria Rain;Edisonstraﬂe;195
+891;4.8;SolarMax;9020;Klagenfurt am Wˆrthersee;Am Kollenhof;75
+892;10.7;SolarMax;9020;Klagenfurt am Wˆrthersee;Kustrenaer Straﬂe;62
+893;9.8;Schneider Electric;9462;Bad St. Leonhard im Lavanttal;Bogenstraﬂe;18 b
+894;120.5;Huawei;9020;Klagenfurt am Wˆrthersee;Wagnerring;108
+895;11;Fronius;9451;Preitenegg;Alemannenstraﬂe;154
+896;11;Huawei;9342;Gurk;Ringmauerweg;183
+897;10.9;Fronius;9500;Villach;Horststraﬂe;185
+898;14.6;Schneider Electric;9131;Grafenstein;Im Sonnenhang;92
+899;13;SMA;9781;Oberdrauburg;Blumenrather Straﬂe;180
+900;11.9;Fronius;9020;Klagenfurt am Wˆrthersee;Eschbachstraﬂe;2
+901;13.6;SolarMax;9020;Klagenfurt am Wˆrthersee;Schˆnbacher Weg;45
+902;9.6;Huawei;9500;Villach;Twistedener Straﬂe;121
+903;11.1;Fronius;9400;Wolfsberg;In der Flesch;117
+904;4.5;Fronius;9831;Flattach;Kiebitzstraﬂe;61
+905;5.8;SolarMax;9560;Feldkirchen in K‰rnten;Stuifenstraﬂe;163
+906;9.2;ABB;9556;St. Veit an der Glan;Im M¸hlenberg;40
+907;12.5;ABB;9711;Paternion;F‰llstraﬂe;199
+908;7.9;Huawei;9020;Klagenfurt am Wˆrthersee;Platz des Friedens;159
+909;8.1;SolarMax;9241;Wernberg;An den Hˆfen;111
+910;4.3;SMA;9170;Ferlach;Haderschen;140
+911;12;ABB;9852;Trebesing;Neuer Kamp;184
+912;14.7;SolarMax;9173;St. Margareten im Rosental;Hochgasse;49
+913;10.5;Fronius;9560;Feldkirchen in K‰rnten;St.-Anno-Straﬂe;164
+914;3.6;SMA;9912;Anras;Hugo-Mueller-Straﬂe;31 c
+915;12.5;Fronius;9400;Wolfsberg;Wallrain;91
+916;13.5;Huawei;9754;Steinfeld;Haehlstraﬂe;183
+917;4.3;Huawei;9131;Grafenstein;Burscheider Straﬂe;124
+918;5.7;ABB;9556;St. Veit an der Glan;Eulgemer Straﬂe;136
+919;6.9;Schneider Electric;9942;Obertilliach;Von Brule Straﬂe;12
+920;12.9;Fronius;9961;Hopfgarten in Defereggen;Birkenb¸hl;80
+921;8;Fronius;9020;Klagenfurt am Wˆrthersee;Husarenstraﬂe;127
+922;11.4;Fronius;9170;Ferlach;Kannenb‰ckerstraﬂe;144
+923;19.2;SolarMax;9071;Kˆttmannsdorf;Geringer Weg;18
+924;7;ABB;9132;Gallizien;Starzend;74
+925;8.7;SolarMax;9020;Klagenfurt am Wˆrthersee;Kleingasse;93
+926;13.4;Fronius;9064;Magdalensberg;Sportplatzstraﬂe;176
+927;4.6;SolarMax;9530;Bad Bleiberg;Dohrgaul;90
+928;3.9;Huawei;9907;Tristach;Am K¸rchen;79
+929;14.4;SMA;9500;Villach;Obere Gasse;185
+930;13.9;Fronius;9900;Lienz;Bundesallee;41
+931;11.6;Schneider Electric;9822;Mallnitz;Ostkamp;36
+932;7.4;Huawei;9170;Ferlach;Sonnenwinkel;156
+933;8.4;Huawei;9062;Moosburg;Marellenk‰mpe;159
+934;12.4;ABB;9822;Mallnitz;Am Alten Park;75
+935;5.2;Huawei;9131;Grafenstein;Mˆrfelder Landstraﬂe;145
+936;3;ABB;9500;Villach;Konrad-Adenauer-Platz;10 c
+937;10.7;Huawei;9232;Rosegg;Zum Heidentempel;53
+938;3.6;Fronius;9773;Irschen;Dominikanerstraﬂe;99
+939;12;Fronius;9900;Lienz;Limkerweg;81
+940;5.3;Fronius;9912;Anras;Carlstraﬂe;47
+941;15.3;Fronius;9181;Feistritz im Rosental;Gronauer Straﬂe;137
+942;6.2;Fronius;9122;St. Kanzian am Klopeiner See;Im Leierling;183
+943;13.3;ABB;9918;Strassen;Danklstraﬂe;67
+944;8.1;ABB;9072;Ludmannsdorf;Scheibenstraﬂe;95
+945;9.9;Huawei;9556;St. Veit an der Glan;Lange Gasse;77
+946;8.7;SMA;9141;Eberndorf;Asternweg;12
+947;13;ABB;9900;Lienz;Rudolf-Dietz-Straﬂe;5
+948;14.7;Huawei;9761;Greifenburg;Gusternhainer Straﬂe;67
+949;4.2;SolarMax;9131;Grafenstein;Hasenfeld;19
+950;3.1;Fronius;9500;Villach;Hilchenbacher Straﬂe;180
+951;8.3;ABB;9500;Villach;Berzbach;192
+952;7.8;Fronius;9500;Villach;Hirtenstraﬂe;63
+953;11.2;Fronius;9170;Ferlach;Im Hommershof;119
+954;12;SMA;9500;Villach;Wittum;136
+955;15.1;Huawei;9400;Wolfsberg;Dˆrfer Kamp;66
+956;6.7;SolarMax;9400;Wolfsberg;In der Eichwies;9
+957;10.7;Fronius;9556;St. Veit an der Glan;Krusauer Straﬂe;12
+958;15.3;SolarMax;9500;Villach;Lerchenweg;173
+959;11.9;Huawei;9833;Rangersdorf;Brock;193
+960;5.3;Fronius;9131;Grafenstein;Kˆnig-Ludwig-Straﬂe;164
+961;9.3;Huawei;9971;Matrei in Osttirol;Juliusstraﬂe;181
+962;3.5;Fronius;9241;Wernberg;Kreuzberger Straﬂe;133
+963;11.9;Schneider Electric;9020;Klagenfurt am Wˆrthersee;Gecksberg;83
+964;9.6;Fronius;9954;Schlaiten;Im Rotterberg;152
+965;3.6;Huawei;9375;H¸ttenberg;Nibelungenstraﬂe;163
+966;9.7;SolarMax;9702;Ferndorf;Sudfeldstraﬂe;123
+967;5.9;Huawei;9560;Feldkirchen in K‰rnten;Castroper Straﬂe;63
+968;3.4;Schneider Electric;9831;Flattach;Kaiserstraﬂe;115
+969;4.8;Fronius;9131;Grafenstein;Charlottenburgweg;54
+970;12.2;Fronius;9184;St. Jakob im Rosental;Franz-Savels-Straﬂe;80
+971;11.7;ABB;9941;Kartitsch;Klopstockstraﬂe;180
+972;9.4;SolarMax;9375;H¸ttenberg;Metelener Damm;70
+973;8.6;ABB;9908;Amlach;Nellheck;70
+974;114.8;SMA;9601;Arnoldstein;Wasserstraﬂe;60
+975;10.9;Fronius;9900;Lienz;Hamburger Allee;47
+976;3.3;Fronius;9241;Wernberg;Waisenhausstraﬂe;110
+977;5.4;Fronius;9500;Villach;Kastorstraﬂe;123
+978;15.5;Schneider Electric;9433;St. Andr‰;H¸lsstraﬂe;79
+979;4.3;SMA;9241;Wernberg;Grevenbroicher Straﬂe;179
+980;9.1;ABB;9170;Ferlach;Laerstraﬂe;167 c
+981;14.6;Fronius;9020;Klagenfurt am Wˆrthersee;Glatzer Straﬂe;40
+982;3.6;Schneider Electric;9451;Preitenegg;In der Aue;33 a
+983;14.1;Fronius;9170;Ferlach;Handelsstraﬂe;192
+984;12.7;ABB;9913;Abfaltersbach;Ferdinand-Schmitz-Straﬂe;36
+985;4.5;Fronius;9556;St. Veit an der Glan;Steinbach;114
+986;6.8;SMA;9313;St. Georgen am L‰ngsee;Im Moorkamp;106
+987;11.1;Schneider Electric;9400;Wolfsberg;M¸nsterlandstraﬂe;117
+988;12.1;Huawei;9300;St. Veit an der Glan;Flˆﬂerstraﬂe;193
+989;7.1;Huawei;9632;Kirchbach;Quedlinburger Straﬂe;183
+990;14;SolarMax;9560;Feldkirchen in K‰rnten;Am Brunnen;185
+991;5.5;Fronius;9500;Villach;Schmittenstraﬂe;107
+992;11.9;Schneider Electric;9241;Wernberg;Klingenhagener Straﬂe;131
+993;10.9;Fronius;9556;Liebenfels;Im Gassenst¸ck;194
+994;5.5;SMA;9400;Wolfsberg;Bendorfer Straﬂe;4
+995;13;Fronius;9020;Klagenfurt am Wˆrthersee;Bornstube;108
+996;8.6;SolarMax;9721;Weiﬂenstein;Winkelstraﬂe;75
+997;11.9;Huawei;9170;Ferlach;Bungert;78
+998;10.1;SolarMax;9131;Grafenstein;Schlesierweg;71
+999;13.1;SMA;9560;Feldkirchen in K‰rnten;Schˆnstraﬂe;52
+1000;5.4;Schneider Electric;9544;Feld am See;Gladbacher Straﬂe;79 a
+1001;14;Fronius;9900;Lienz;Rabenweg;6
+1002;8.2;Huawei;9131;Grafenstein;Neue Straﬂe;109
+1003;6.3;Huawei;9463;Reichenfels;F¸rkhofstraﬂe;7
+1004;8.7;Fronius;9462;Bad St. Leonhard im Lavanttal;Dr.-K¸lz-Straﬂe;43
+1005;10.4;Fronius;9170;Ferlach;Lochnerstraﬂe;103
+1006;4.1;Fronius;9150;Bleiburg;Ebernhahner Straﬂe;105
+1007;5.4;SolarMax;9872;Millstatt am See;Zur dicken Eiche;59
+1008;8;Huawei;9170;Ferlach;Silmecke;34
+1009;11.6;SolarMax;9241;Wernberg;L‰ngenfeldweg;192
+1010;6.5;SMA;9161;Maria Rain;Plankenwiese;32
+1011;9.4;Fronius;9500;Villach;Hoogeweg;27
+1012;13.4;Huawei;9907;Tristach;Kreuzbergstraﬂe;8
+1013;7.5;SMA;9241;Wernberg;Ludgerusstraﬂe;98
+1014;12.8;Fronius;9131;Grafenstein;Auf der alten Fuhr;166
