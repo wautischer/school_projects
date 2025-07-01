@@ -1,0 +1,30 @@
+2025-02-04 12:01:23.145
+Andrea Davis;Female;AUT;F20;02:46:14;
+Kimberly Chan;Female;AUT;F20;02:53:19;
+Mary Buchanan;Female;AUT;F20;02:24:48;
+
+2025-02-04 12:09:17.947
+Andrea Davis;Female;AUT;F20;02:46:14;
+Kimberly Chan;Female;AUT;F20;02:53:19;
+Mary Buchanan;Female;AUT;F20;02:24:48;
+
+2025-02-04 12:09:24.289
+Andrea Davis;Female;AUT;F20;02:46:14;
+Kimberly Chan;Female;AUT;F20;02:53:19;
+Mary Buchanan;Female;AUT;F20;02:24:48;
+
+2025-02-04 12:09:42.603
+Andrea Davis;Female;AUT;F20;02:46:14;
+Kimberly Chan;Female;AUT;F20;02:53:19;
+Mary Buchanan;Female;AUT;F20;02:24:48;
+
+2025-02-04 12:09:57.532
+Tiffany Villarreal;Female;AUT;F20;02:16:53;
+Mary Buchanan;Female;AUT;F20;02:24:48;
+Andrea Davis;Female;AUT;F20;02:46:14;
+
+2025-02-04 13:17:52.283
+Tiffany Villarreal;Female;AUT;F20;02:16:53;
+Mary Buchanan;Female;AUT;F20;02:24:48;
+Andrea Davis;Female;AUT;F20;02:46:14;
+

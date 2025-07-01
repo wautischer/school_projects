@@ -1,0 +1,2 @@
+# AI Tic Tac Toe
+This React.js project utilizes a Teachable Machine Image Model to enable hand-based Tic Tac Toe gameplay. When you click "Start Game," a 5-second timer begins. You must show a number between 1 and 3 to the camera before the timer expires. This process is repeated twice to determine the desired row and column for placing an X or O. That's all there is to it! The game logic follows the familiar rules we all know.
